@@ -1,4 +1,4 @@
-Proyecto Secuela de StarSafe, modelo de machine learning de prediccion de desastres naturales.
+Proyecto Secuela de StarSafe, modelo de machine learning de prediccion de desastres naturales. Presentado como proyecto final de Data Science y Machine Learning en la Academia 4Geeks Chile, Julio 2024.
 
 FireSafe esta pensado como un modelo de aprendizaje supervisado para la prediccion de incendios forestales en base a datos pasados.
 Implica el uso de geolocalizacion.
