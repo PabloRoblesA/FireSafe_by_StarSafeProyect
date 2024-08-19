@@ -4,7 +4,7 @@ FireSafe esta pensado como un modelo de aprendizaje supervisado para la predicci
 Implica el uso de geolocalizacion.
 
 Etapas: 
-Busqueda de informacion estructurada en DF.
+Busqueda de informacion estructurada en DF. Idealmente mas de uno, idealmente coordenadas geograficas.
 Analisis y limpieza de datos, EDA.
 Visualizacion y grafica de datos.
 Modelo de aprendizaje supervisado.
